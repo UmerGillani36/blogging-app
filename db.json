@@ -1,0 +1,172 @@
+{
+  "blogs": [
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Food Blog",
+      "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658038418/efvwvv2xzcclf0inwjob.jpg",
+      "category": "Food",
+      "date": "16-7-2022",
+      "id": 1
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Tech Blog",
+      "description": "A technical description is a document created for the end-user to understand how a product, process, or concept works. A technical description typically includes the names of the product or process, gives a brief overview regarding its functions, and dives deep into its size, frames, and other components.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658038476/t7ikc2twjuckdcvjtgxz.jpg",
+      "category": "Fitness",
+      "date": "16-7-2022",
+      "id": 2
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Food corner karachi",
+      "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658127806/uk8b4zqpdajxp9h5zcfr.jpg",
+      "category": "Food",
+      "date": "18-7-2022",
+      "id": 5
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Food corner karachi",
+      "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658127806/uk8b4zqpdajxp9h5zcfr.jpg",
+      "category": "Food",
+      "date": "18-7-2022",
+      "id": 6
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Food corner karachi",
+      "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658127806/uk8b4zqpdajxp9h5zcfr.jpg",
+      "category": "Food",
+      "date": "18-7-2022",
+      "id": 7
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Food corner karachi",
+      "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658127806/uk8b4zqpdajxp9h5zcfr.jpg",
+      "category": "Food",
+      "date": "18-7-2022",
+      "id": 8
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Food corner karachi",
+      "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658127806/uk8b4zqpdajxp9h5zcfr.jpg",
+      "category": "Food",
+      "date": "18-7-2022",
+      "id": 9
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Food corner karachi",
+      "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658127806/uk8b4zqpdajxp9h5zcfr.jpg",
+      "category": "Food",
+      "date": "18-7-2022",
+      "id": 10
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Food corner karachi",
+      "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658127806/uk8b4zqpdajxp9h5zcfr.jpg",
+      "category": "Food",
+      "date": "18-7-2022",
+      "id": 11
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Tech Blog",
+      "description": "A technical description is a document created for the end-user to understand how a product, process, or concept works. A technical description typically includes the names of the product or process, gives a brief overview regarding its functions, and dives deep into its size, frames, and other components.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658038476/t7ikc2twjuckdcvjtgxz.jpg",
+      "category": "Tech",
+      "date": "16-7-2022",
+      "id": 12
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Tech Blog",
+      "description": "A technical description is a document created for the end-user to understand how a product, process, or concept works. A technical description typically includes the names of the product or process, gives a brief overview regarding its functions, and dives deep into its size, frames, and other components.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658038476/t7ikc2twjuckdcvjtgxz.jpg",
+      "category": "Tech",
+      "date": "16-7-2022",
+      "id": 13
+    },
+    {
+      "initialState": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "category": ""
+      },
+      "title": "Tech Blog",
+      "description": "A technical description is a document created for the end-user to understand how a product, process, or concept works. A technical description typically includes the names of the product or process, gives a brief overview regarding its functions, and dives deep into its size, frames, and other components.",
+      "imageUrl": "http://res.cloudinary.com/umergilani/image/upload/v1658038476/t7ikc2twjuckdcvjtgxz.jpg",
+      "category": "Tech",
+      "date": "16-7-2022",
+      "id": 14
+    }
+  ]
+}
